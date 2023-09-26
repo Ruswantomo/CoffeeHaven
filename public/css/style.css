@@ -1,0 +1,57 @@
+
+        /* Gaya untuk navbar */
+        .navbar {
+            background-color: white; /* Warna latar belakang navbar */
+            text-align: center; /* Menengahkan teks dalam navbar */
+        }
+        
+        .navbar-brand {
+            font-weight: bold; /* Tambahkan ketebalan pada teks navbar brand */
+        }
+        
+        /* Gaya untuk tautan navbar */
+        .navbar-nav {
+            text-align: center; /* Menengahkan tautan navbar */
+        }
+        
+        .nav-item {
+            margin: 0 10px; /* Jarak antara tautan navbar */
+        }
+        
+        .nav-link {
+            color: #333; /* Warna teks tautan navbar */
+            transition: color 0.3s; /* Efek transisi warna saat dihover */
+        }
+        
+        .nav-link:hover {
+            color: rgba(139, 74, 0, 0.849); /* Warna teks saat dihover */
+        }
+        
+        h2 {
+            text-align: center;
+            color: rgba(139, 74, 0, 0.849);
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr); /* Membuat tiga kolom dengan lebar yang sama */
+            gap: 10px; /* Jarak antara elemen-elemen */
+        }
+        
+        .card {
+            width: 15rem;
+            /* Gaya lain yang Anda inginkan untuk kartu Anda */
+        }
+
+        .about {
+            text-align: justify;
+        }
+
+        .mission {
+            text-align: justify;
+        }
+
+        footer {
+            text-align: center;
+        }
+        
