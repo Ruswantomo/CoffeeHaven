@@ -11,20 +11,20 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('coffee', function (Blueprint $table) {
+        Schema::create('snacks', function (Blueprint $table) {
             $table->id();
             $table->string('image');
-            $table->string('nama');
-            $table->text('deskripsi');
+            $table->string('name');
+            $table->text('content');
+            $table->timestamps();
         });
     }
-
 
     /**
      * Reverse the migrations.
      */
     public function down(): void
     {
-        //
+        Schema::dropIfExists('snacks');
     }
 };
