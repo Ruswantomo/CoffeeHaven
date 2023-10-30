@@ -67,3 +67,20 @@ Kemudian, untuk mengisi form tersebut harus menginput gambar dalam extensi jpeg,
 
 ![image](https://github.com/Ruswantomo/CoffeeHaven/assets/103126195/d9e3e591-18df-46a5-99b8-3770c98ef7a0)
 Gambar diatas adalah tampilan dari hasil ketika input produk snack baru telah berhasil dengan menampilan gambar,nama snack, dan deskripsi yang telah diinput sebelumnya dengan menampilkan popup bahwa data berhasil disimpan.
+
+## Update Ke 2
+
+Berikut adalah beberapa update/tambahan baru dari website coffeeshop (CoffeeHaven) yang dibuat sebelumnya
+
+![image](https://github.com/Ruswantomo/CoffeeHaven/assets/103126195/8c9fd701-e9bb-48dd-88be-dedf862ed4f1)
+Gambar diatas adalah tampilan setelah dilakukannya update untuk menambahkan register /form register pada website ini (untuk aksesnya bisa dibuka saat pertama kali menjalankan websitenya) yang dimana isi formnya yaitu name, email address (wajib di isi), password (wajib di isi dan dengan syarat 8 karakter)dan password confirmation. Setelah menginput data register, maka bisa klik button register untuk menyimpan data registernya kedalam database seperti gambar dibawah ini.
+
+![image](https://github.com/Ruswantomo/CoffeeHaven/assets/103126195/76696d4c-3418-48cf-aeb4-658483948ce9)
+
+Setelah itu akan diarahkan ke form untuk melakukan login seperti gambar dibawah ini.
+
+![image](https://github.com/Ruswantomo/CoffeeHaven/assets/103126195/eb4645e1-9203-4adc-a7e0-945808aa2361)
+Gambar diatas adalah tampilan untuk login /form login pada website ini yang dimana isi formnya yaitu email dan password yang telah dibuat sebelumnya pada form register. Kemudian setelah 
+menginput data untuk login, maka bisa klik button login dibawahnya dan akan diarahkan untuk mengakses halaman websitenya seperti gambar dibawah ini.
+
+![image](https://github.com/Ruswantomo/CoffeeHaven/assets/103126195/26fc45e7-1d98-414e-9f17-4f322825f911)
