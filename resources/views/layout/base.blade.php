@@ -25,7 +25,7 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link" href="/"><b>Home</b></a>
+                    <a class="nav-link" href="/welcome"><b>Home</b></a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="about"><b>About</b></a>
@@ -38,17 +38,6 @@
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="snack"><b>Snack</b></a>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Login
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Login Admin</a></li>
-                      <li><a class="dropdown-item" href="#">Another action</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
                   </li>
                 </ul>
               </div>
